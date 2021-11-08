@@ -1,9 +1,8 @@
 Hi There! I am Heri Setiawan
+<br/>
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
 <img src="https://komarev.com/ghpvc/?username=heriswn">
 </a>
-
-<br/>
 <br/>
 
 ## About me:
@@ -16,7 +15,6 @@ Hi There! I am Heri Setiawan
 <br/>
 
 ## Follow my social media:
-[<img align="left" alt="freevacy.gatsbyjs.io" width="35px" src="https://avatars.githubusercontent.com/u/80876671?s=400&u=5b27003fbf933f60338e93efe2978189b714467c&v=4" />][website]
 [<img align="left" alt="https://github.com/heriswn" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />][github]
 [<img align="left" alt="https://www.instagram.com/heriswn" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
 [<img align="left" alt="https://twitter.com/analityc.id" width="35px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />][twitter]

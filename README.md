@@ -10,15 +10,13 @@ Hi There! I am Heri Setiawan
 - 🍃 learn anything.
 - 🐫 love my privacy.
 
-
 <br/>
 <br/>
 
 ## Follow my social media:
-[website]: https://freevacy.gatsbyjs.io
-[github]: https://github.com/heriswn
-[twitter]: https://twitter.com/analystid
-[instagram]: https://www.instagram.com/heriswn
+[<img align="left" alt="https://github.com/heriswn" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />][github]
+[<img align="left" alt="https://www.instagram.com/heriswn" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
+[<img align="left" alt="https://twitter.com/analystid" width="35px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />][twitter]
 
 <br/>
 <br/>
@@ -34,3 +32,6 @@ Hi There! I am Heri Setiawan
 <br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=heriswn&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <hr/>
+[github]: https://github.com/heriswn
+[twitter]: https://twitter.com/analystid
+[instagram]: https://www.instagram.com/heriswn

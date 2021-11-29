@@ -6,13 +6,6 @@ Hi There! I am Heri Setiawan
 
 <br/>
 
-## About me:
-- 🏫 I'm a mathematician.
-- 🍃 learn anything.
-- 🐫 love my privacy.
-
-<br/>
-
 ## Statistics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heriswn&layout=compact&theme=onedark)
 <br/>
